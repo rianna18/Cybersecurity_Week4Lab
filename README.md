@@ -25,13 +25,13 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Week3Lab.gif' width='' alt='Video Walkthrough' />
+<img src='Week4Lab.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-This lab was a bit difficult to grasp for me but once I did I enjoy working with Burp and using manipulation to complete the challenges.
+This lab was a bit difficult to grasp for me but once I did, I enjoyed working with Burp and using manipulation to complete the challenges.
 
 ## License
 
